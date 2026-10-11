@@ -89,7 +89,7 @@ Disease-Frequency-Analytics/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone < https://github.com/rishugupta23/Disease-Frequency-Analytics >
 cd Disease-Frequency-Analytics
 ```
 
